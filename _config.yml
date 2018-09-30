@@ -15,7 +15,7 @@ github_username:  yuina-whiteclock
 #disqus_shortname: freshman21
 favicon:     "/images/favicon.ico"
 aboutme: インターネット初心者です。がんばります。 # these are shown on aboutme-sidebar.
-aboutme_photo: "https://github.com/yuina-whiteclock/yuina-whiteclock.github.io/blob/master/img/prof.png" # your photo.
+aboutme_photo: "/images/prof.png" # your photo.
 google_analytics_key: UA-57979084-1 # put YOUR key here to enable tracking! (blank to disable)
 
 
