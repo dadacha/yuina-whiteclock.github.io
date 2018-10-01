@@ -1,12 +1,15 @@
 @charset "utf-8";
-
+*{
+  margin: 0;
+  padding: 0;
+}
 /**
  * Site header
  */
 .site-header {
   //Positioning context for the mobile navigation icon
   position: relative;
-  background: #0f3344;
+  background: #fff;
 }
 
 .site-title {
