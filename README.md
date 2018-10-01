@@ -7,3 +7,4 @@ Github PageでJekyllを使うと自動でビルドすることが可能らしい
 
 ## 著作権
 ソースコード：MIT
+文章：  <img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png">
