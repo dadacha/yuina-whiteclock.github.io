@@ -4,7 +4,7 @@ tagline: 日記のようなブログです
 author: yuina_whiteclock
 #email: yu@lijiayu.net
 description: "Jekyllを用いてサイトを作成したので、その手順についてまとめたいと思う。" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
-keywords: "Jekyll,webサイト構築"
+keywords: "Jekyll,webサイト作成,プログラミング"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yuina-whiteclock.github.io/" # the base hostname & protocol for your site
 #locale: en_US
