@@ -15,7 +15,7 @@ $spacing-unit:     15px;
 
 $text-color:       #111;
 $background-color: rgb(229, 249, 222);
-$sidebar-color: #dbfff1;
+$sidebar-color: #eaffe7;
 $brand-color:      #2a7ae2;
 $brand-top-color:  #2583ad;
 $hover-color:      #DD1144;
@@ -58,7 +58,7 @@ $on-laptop:        800px;
         "layout",
         "_syntax-highlighting-native" // "syntax-highlighting"
 ;
-
+@import url('https://fonts.google.com/specimen/Cedarville+Cursive');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
