@@ -4,6 +4,8 @@ title: Guestbook
 comments: yes
 permalink: /guestbook/
 ---
-## Hi, welcome to leave a message here.:)
+なにか御用がありましたら、Twitterでよろしくお願いします
 
-> To follow the path, look to the master, follow the master, walk with the master, see through the master, become the master.
+ご意見・ご要望・ご質問なんでも気軽にどうぞ
+
+答えられるものであったら何でも答えます
