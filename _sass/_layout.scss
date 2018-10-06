@@ -244,6 +244,7 @@
   h1 { 
     font-size: 38px;
     line-height:1em;
+    font-weight: bold;
     @include media-query($on-laptop){
       font-size: 36px;
     }
@@ -252,6 +253,7 @@
   h2 {
     font-size: 32px;
     line-height:1em;
+    font-weight: bold;
     @include media-query($on-laptop) {
       font-size: 28px;
     }
@@ -260,7 +262,13 @@
   h3 {
     font-size: 26px;
     line-height:1em;
-
+    //font-weight: bold;
+    padding-bottom: 5px;
+    padding-top: 20px;
+    //padding-left: 5px;
+    border-bottom: 1px dotted #0086B3;
+    //border-left: 5px solid #0f3344;
+    margin-bottom: 5px;
     @include media-query($on-laptop) {
       font-size: 22px;
     }
