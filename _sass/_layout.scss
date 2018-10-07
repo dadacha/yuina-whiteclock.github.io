@@ -15,6 +15,7 @@
 }
 
 .site-title {
+  //margin-top: 0;
   text-decoration: none;
   font-family: 'Cedarville Cursive', cursive;
   font-size: 48px;
@@ -241,7 +242,7 @@
 .post-content {
   p { padding:$spacing-unit /2 0; }
   //margin-bottom: $spacing-unit;
-  h1 { 
+  h1 {
     font-size: 38px;
     line-height:1em;
     font-weight: bold;
